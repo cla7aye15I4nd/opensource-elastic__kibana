@@ -32412,13 +32412,13 @@ svgo@4.0.2, svgo@^4.0.1:
     picocolors "^1.1.1"
     sax "^1.5.0"
 
-swr@2.3.3:
-  version "2.3.3"
-  resolved "https://registry.yarnpkg.com/swr/-/swr-2.3.3.tgz#9d6a703355f15f9099f45114db3ef75764444788"
-  integrity sha512-dshNvs3ExOqtZ6kJBaAsabhPdHyeY4P2cKwRCniDVifBMoG/SVI7tfLWqPXriVspf2Rg4tPzXJTnwaihIeFw2A==
+swr@2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/swr/-/swr-2.5.0.tgz#186c68b08b3419a5ebba4cea53d776467c9fa2d4"
+  integrity sha512-W0GomadRJe9OfzIoRX0kZHhDSaRRfdiOUeH6uazgR05SibBhDNwfdTbhAxmFtObvkf59fFymo22mooKukosvNA==
   dependencies:
     dequal "^2.0.3"
-    use-sync-external-store "^1.4.0"
+    use-sync-external-store "^1.6.0"
 
 symbol-observable@4.0.0, symbol-observable@^4.0.0:
   version "4.0.0"
